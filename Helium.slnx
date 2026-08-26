@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Helium/Helium.vcxproj" Id="e8e69293-8e69-4377-8c68-f1eae840ee88" />
+</Solution>
